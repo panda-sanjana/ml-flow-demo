@@ -1,0 +1,16 @@
+artifact_uri: /mnt/d/ml-flow-demo/mlruns/881696572082197667/87c33f76cc3b48bb9dfe097a7a879838/artifacts
+deleted_time: 1711015106201
+end_time: 1711004960552
+entry_point_name: ''
+experiment_id: '881696572082197667'
+lifecycle_stage: deleted
+run_id: 87c33f76cc3b48bb9dfe097a7a879838
+run_name: wise-lamb-769
+run_uuid: 87c33f76cc3b48bb9dfe097a7a879838
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711004925271
+status: 3
+tags: []
+user_id: tiger03904

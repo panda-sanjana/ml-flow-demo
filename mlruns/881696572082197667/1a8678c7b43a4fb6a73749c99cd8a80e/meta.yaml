@@ -1,0 +1,16 @@
+artifact_uri: /mnt/d/ml-flow-demo/mlruns/881696572082197667/1a8678c7b43a4fb6a73749c99cd8a80e/artifacts
+deleted_time: 1711015106200
+end_time: 1711004976416
+entry_point_name: ''
+experiment_id: '881696572082197667'
+lifecycle_stage: deleted
+run_id: 1a8678c7b43a4fb6a73749c99cd8a80e
+run_name: delightful-seal-978
+run_uuid: 1a8678c7b43a4fb6a73749c99cd8a80e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711004960614
+status: 3
+tags: []
+user_id: tiger03904

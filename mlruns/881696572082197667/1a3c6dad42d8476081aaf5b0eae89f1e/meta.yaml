@@ -1,0 +1,15 @@
+artifact_uri: /mnt/d/ml-flow-demo/mlruns/881696572082197667/1a3c6dad42d8476081aaf5b0eae89f1e/artifacts
+end_time: 1711015077422
+entry_point_name: ''
+experiment_id: '881696572082197667'
+lifecycle_stage: active
+run_id: 1a3c6dad42d8476081aaf5b0eae89f1e
+run_name: fun-slug-645
+run_uuid: 1a3c6dad42d8476081aaf5b0eae89f1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711015038781
+status: 3
+tags: []
+user_id: tiger03904

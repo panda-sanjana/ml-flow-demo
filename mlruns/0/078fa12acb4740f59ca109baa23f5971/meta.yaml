@@ -1,0 +1,15 @@
+artifact_uri: /mnt/d/ml-flow-demo/mlruns/0/078fa12acb4740f59ca109baa23f5971/artifacts
+end_time: 1711015397690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 078fa12acb4740f59ca109baa23f5971
+run_name: adaptable-mouse-142
+run_uuid: 078fa12acb4740f59ca109baa23f5971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711015238651
+status: 3
+tags: []
+user_id: tiger03904

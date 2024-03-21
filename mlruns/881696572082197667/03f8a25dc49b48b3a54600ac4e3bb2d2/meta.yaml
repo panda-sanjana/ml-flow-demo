@@ -1,0 +1,16 @@
+artifact_uri: /mnt/d/ml-flow-demo/mlruns/881696572082197667/03f8a25dc49b48b3a54600ac4e3bb2d2/artifacts
+deleted_time: 1711015106199
+end_time: 1711004991520
+entry_point_name: ''
+experiment_id: '881696572082197667'
+lifecycle_stage: deleted
+run_id: 03f8a25dc49b48b3a54600ac4e3bb2d2
+run_name: lyrical-duck-835
+run_uuid: 03f8a25dc49b48b3a54600ac4e3bb2d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711004976481
+status: 3
+tags: []
+user_id: tiger03904

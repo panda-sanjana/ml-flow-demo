@@ -1,0 +1,15 @@
+artifact_uri: /mnt/d/ml-flow-demo/mlruns/881696572082197667/ab9981cf7edb4ede8ba4306503b7436a/artifacts
+end_time: 1711015096371
+entry_point_name: ''
+experiment_id: '881696572082197667'
+lifecycle_stage: active
+run_id: ab9981cf7edb4ede8ba4306503b7436a
+run_name: bustling-kit-698
+run_uuid: ab9981cf7edb4ede8ba4306503b7436a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711015077509
+status: 3
+tags: []
+user_id: tiger03904

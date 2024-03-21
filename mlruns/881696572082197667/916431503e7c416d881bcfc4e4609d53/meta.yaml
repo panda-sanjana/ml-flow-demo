@@ -1,0 +1,15 @@
+artifact_uri: /mnt/d/ml-flow-demo/mlruns/881696572082197667/916431503e7c416d881bcfc4e4609d53/artifacts
+end_time: 1711015113790
+entry_point_name: ''
+experiment_id: '881696572082197667'
+lifecycle_stage: active
+run_id: 916431503e7c416d881bcfc4e4609d53
+run_name: unequaled-shrike-753
+run_uuid: 916431503e7c416d881bcfc4e4609d53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711015096453
+status: 3
+tags: []
+user_id: tiger03904
